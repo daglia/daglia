@@ -1,30 +1,46 @@
-# Hi there, I'm Alper 👋
+# Hi, I'm Alper
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in various technologies and frameworks. Below is a brief overview of my skills.
+I work at the intersection of engineering, software, and game development.
 
-## 🛠️ Technologies & Tools
-
-- **Languages**: C#, JavaScript, Python, SQL
-- **Frameworks & Libraries**:
-  - **.NET**: ASP.NET, ASP.NET Core, Entity Framework
-  - **Frontend**: HTML, CSS, JavaScript, AngularJS, ReactJS
-  - **Backend**: Flask
-  - **Game Development**: PixiJS, Godot
-- **Databases**: MSSQL, MySQL
-- **Other**: Git, Docker, RESTful APIs, Photoshop, Illustrator, Aseprite, FL Studio
-
-## 📈 GitHub Stats
-
-![daglia's GitHub stats](https://github-readme-stats.vercel.app/api?username=daglia&show_icons=true&theme=radical)
-
-## 📫 Contact
-
-- **Website**: [alperdagli.me](https://alperdagli.me)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/daglia)
-- **Email**: [alperdagli@outlook.com.tr](alperdagli@outlook.com.tr)
-
-Feel free to reach out if you have any questions or want to collaborate on a project!
+Background: Control & Automation Engineering + several years in software development.  
+These days I build small system-driven projects and game prototypes (mostly in Godot), where constraints and simple visuals matter.
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😊
+## What I work with
+
+**Languages**
+- C#, JavaScript, Python, SQL
+
+**Game & Creative**
+- Godot (2D)
+- PixiJS
+- Aseprite
+- FL Studio
+
+**Web & Backend**
+- .NET / ASP.NET Core
+- React, AngularJS
+- Flask
+- REST APIs
+
+**Databases & Tools**
+- MSSQL, MySQL
+- Git, Docker
+
+---
+
+## Current interests
+
+- Grid-based / simulation-like mechanics
+- Small, shippable prototypes
+- Pixel art and simple visual systems
+- Turning real-world constraints into playable systems
+
+---
+
+## Contact
+
+- Website: https://alperdagli.me  
+- LinkedIn: https://www.linkedin.com/in/daglia  
+- Email: alperdagli@outlook.com.tr
